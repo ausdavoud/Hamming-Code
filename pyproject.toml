@@ -1,0 +1,12 @@
+[project]
+name = "hamming"
+version = "0.1.0"
+description = "Hamming codes over a binary symmetric channel, measured against the Shannon limit"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "ipykernel>=6.30.0",
+    "matplotlib>=3.10.3",
+    "scipy>=1.15.3",
+    "sympy>=1.14.0",
+]
